@@ -2,7 +2,6 @@
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=Harikrishnan007512&label=Profile%20Views&color=0e75b6&style=flat" alt="visitor badge"/>
 </p>
-
 # 👋 Hi, I'm Hariharan
 
 ☁️ Aspiring **AWS Cloud Engineer** with hands-on experience in  
