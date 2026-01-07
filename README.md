@@ -2,13 +2,19 @@
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=Harikrishnan007512&label=Profile%20Views&color=0e75b6&style=flat" alt="visitor badge"/>
 </p>
-# 👋 Hi, I'm Hariharan
+
+## Hi I'm Hariharan 👋
 
 ☁️ Aspiring **AWS Cloud Engineer** with hands-on experience in  
 IT Support, System Administration, Linux fundamentals, and AWS Cloud basics.  
 Currently focused on building real-time cloud projects and transitioning into a Cloud Engineering role.
 
 ---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" />
+</p>
+
 
 ## 💼 Professional Background
 - IT Support / Site Engineer with experience in:
@@ -75,4 +81,4 @@ where I can apply my infrastructure knowledge and grow in cloud-native technolog
 
 ## 📫 Contact
 - 📧 Email: hariharanit5@gmail.com
-- 💼 LinkedIn: (Add your LinkedIn URL)
+- 💼 LinkedIn: 
