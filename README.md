@@ -23,7 +23,7 @@ Currently focused on building real-time cloud projects and transitioning into a 
   - Ticket handling using ServiceNow
   - System monitoring, patching, and basic security practices
 
-This background helped me build a **strong foundation for Cloud & Infrastructure roles**.
+<!-- This background helped me build a **strong foundation for Cloud & Infrastructure roles -->
 
 ---
 
@@ -81,4 +81,4 @@ where I can apply my infrastructure knowledge and grow in cloud-native technolog
 
 ## 📫 Contact
 - 📧 Email: hariharanit5@gmail.com
-- 💼 LinkedIn: 
+- 💼 LinkedIn:
